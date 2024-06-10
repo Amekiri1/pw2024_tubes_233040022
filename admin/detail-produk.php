@@ -55,7 +55,7 @@
 					<p>
 						Hubungi via Whatsapp
 					</p>
-					<a href="https://api.whatsapp.com/send?phone=<?php echo $a->admin_telp ?>" target="_blank"><img src="../img/wa.png" style="width:50px;">
+					<a href="https://wa.me/62<?php echo $a->admin_telp ?>" target="_blank"><img src="../img/wa.png" style="width:50px;">
 					</a>
 				</div>
 			</div>

@@ -24,7 +24,6 @@
                 <li><a href="profil.php">Profil</a></li>
                 <li><a href="data-kategori.php">Kategori</a></li>
                 <li><a href="data-produk.php">Produk</a></li>
-                <li><a href="index.php">User</a></li>
                 <li><a href="logout.php">Logout</a></li>
             </ul>
         </div>
